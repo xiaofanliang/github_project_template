@@ -2,17 +2,15 @@
 
 ## Getting Started with This Template
 
-Click the green **Use this template** button at the top of this repo (not "Fork") to create your own copy or by git cloning the folder to your local folder. 
+Click the green **Use this template** button at the top of this repo (not "Fork") to create your own copy or by git cloning the folder to your local folder. Don't push to edit this template repo directly.
 
-Do this before you start editing — don't edit this template repo directly.
-
-> **Using this template:** This repo is your project deliverable — it should let a reader understand *and* reproduce your project without talking to you directly. Replace every `[bracketed]` placeholder below, delete this callout, and swap out the example files in `data/`, `code/`, and `report/` for your own.
+> This repository documents your academic course project. It should allow another student, researcher, or practitioner to understand your methods and reproduce the shareable portions of your analysis without talking to you directly.
 
 ## Project Overview
 
 **Team:** [Names] 
 
-**Partner organization:** Detroit Land Bank 
+**External project context provided by:** Detroit Land Bank Authority
 
 **Course:** Fall 2026, URP 535/UT 435/SI 536 – Introduction to Urban Informatics, University of Michigan
 
@@ -62,8 +60,8 @@ See `/code` for the scripts used at each stage.
 - `data/` — raw and processed datasets. See `[data/README.md](data/README.md)`.
 - `code/` — scripts/notebooks that reproduce the analysis. See `[code/README.md](code/README.md)`.
 - `report/` — supporting visuals and the final written report:
-  - `figures/` — one or two eye-catching images (a key map, chart, or prototype screenshot), referenced from "Key Results" above.
-  - `final_report.pdf` — the full final write-up (background, methods, results, limitations, recommendations), for a reader who won't open GitHub at all.
+  - `figures/` — figures in your report.
+  - `final_report.pdf` — the full final write-up (a link to GitHub repo, a link to interactive prototype if any, background, research questions/project goals, methods, results, limitations, reflection and discussion with readings) that you submit to Canvas. 
 - `docs/` (only if your project includes a web map or interactive prototype) — see "Web Map / Prototype" below.
 
 ## Web Map / Prototype (optional)
@@ -72,19 +70,7 @@ If your project includes an interactive web map or prototype, put `index.html` a
 
 ## Reproducing the Analysis
 
-### 1. Set up the environment
-
-...
-
-### 2. Obtain the data
-
-...
-
-### 3. Run the analysis
-
-...
-
-Scripts should be run in numerical order where applicable.
+A few sentences about how others can reproduce the analysis, such as what environment to setup (it is a good happen to set up requirement.txt so others can download the same versions of packages you used for your analysis), how to obtain the data from GitHub, and how to run the analysis (e.g., Scripts should be run in numerical order where applicable.)
 
 ## Limitations
 
@@ -92,7 +78,7 @@ Describe important limitations in the data, methods, and interpretation.
 
 ## Course Context
 
-This project was completed as part of URP 535/UT 435/SI 536 – Introduction to Urban Informatics at the University of Michigan. It is an academic course project using a real-world planning question as a learning context.
+This repository documents an academic course project completed for URP 535/UT 435/SI 536 – Introduction to Urban Informatics at the University of Michigan. The project uses a real-world planning question as a learning context for practicing data and computational methods. It should not be interpreted as professional work performed for or on behalf of the external organization, or as a production-ready product.
 
 ## Acknowledgments
 
