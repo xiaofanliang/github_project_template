@@ -1,12 +1,20 @@
 # Project Title
 
+## Getting Started with This Template
+
+Click the green **Use this template** button at the top of this repo (not "Fork") to create your own copy or by git cloning the folder to your local folder. 
+
+Do this before you start editing — don't edit this template repo directly.
+
 > **Using this template:** This repo is your project deliverable — it should let a reader understand *and* reproduce your project without talking to you directly. Replace every `[bracketed]` placeholder below, delete this callout, and swap out the example files in `data/`, `code/`, and `report/` for your own.
 
-**Team:** [Names]
-**Partner organization:** Detroit Land Bank
-**Course:** Fall 2026, URP 535/UT 435/SI 536 – Introduction to Urban Informatics, University of Michigan
-
 ## Project Overview
+
+**Team:** [Names] 
+
+**Partner organization:** Detroit Land Bank 
+
+**Course:** Fall 2026, URP 535/UT 435/SI 536 – Introduction to Urban Informatics, University of Michigan
 
 In 1–2 paragraphs:
 
@@ -58,15 +66,11 @@ See `/code` for the scripts used at each stage.
   - `final_report.pdf` — the full final write-up (background, methods, results, limitations, recommendations), for a reader who won't open GitHub at all.
 - `docs/` (only if your project includes a web map or interactive prototype) — see "Web Map / Prototype" below.
 
-
-
 ## Web Map / Prototype (optional)
 
 If your project includes an interactive web map or prototype, put `index.html` at the top level of a `docs/` folder, along with its `css/`, `js/`, and any data files it loads (e.g., GeoJSON) — not nested inside `code/` or `report/`. Keep all file paths relative so the map works both locally and once published. GitHub Pages can only serve a site from the repository root or a `/docs` folder on the default branch (not an arbitrary subfolder), so `docs/` is the one to use. To publish it: go to the repo's **Settings → Pages**, under "Build and deployment" choose "Deploy from a branch," pick `main` as the branch and `/docs` as the folder, then save — GitHub will publish the site at `https://<username>.github.io/<repo-name>/` within a few minutes.
 
 ## Reproducing the Analysis
-
-
 
 ### 1. Set up the environment
 
