@@ -1,0 +1,6 @@
+parcel_id,address,land_use,assessed_value,year_built
+000000001,123 Main St,Residential,45000,1952
+000000002,456 Oak Ave,Commercial,120000,1988
+000000003,789 Elm St,Vacant,8000,
+000000004,321 Pine Rd,Residential,62000,1965
+000000005,654 Maple Dr,Vacant,5000,
