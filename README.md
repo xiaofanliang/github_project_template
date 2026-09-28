@@ -26,7 +26,7 @@ In 1–2 paragraphs:
 
 Summarize the major findings or outputs of the project.
 
-[Include 1–2 key maps, figures, or screenshots here. See `report/figures/`.]
+[Optionally, include 1–2 key maps, figures, or screenshots here. You can link to `report/figures/`.]
 
 ## Data
 
@@ -39,7 +39,7 @@ Summarize the major findings or outputs of the project.
 | Team site survey                                    | [www.google.com](http://www.google.com) | Field observations of vacant lot conditions, collected by the team                    | Created by team — included in `data/raw/`                                             |
 
 
-**Do not upload DLBA (or other restricted/licensed) data to this public repository.** Only commit data that is publicly available or that your team scraped/collected/created yourselves. For any restricted dataset, describe it in the table above (source, description, how to request access) instead of committing the file — see `data/README.md` for details.
+**Do not upload DLBA (or other restricted/licensed) data to this public repository.** Only commit data that is publicly available or that your team scraped/collected/created yourselves. For any restricted dataset, describe it in the table above (source, description, how to request access) instead of committing the file — see `data/README.md` for details. The data table above is just an example. 
 
 ## Methods and Workflow
 
@@ -61,8 +61,10 @@ See `/code` for the scripts used at each stage.
 - `code/` — scripts/notebooks that reproduce the analysis. See `[code/README.md](code/README.md)`.
 - `report/` — supporting visuals and the final written report:
   - `figures/` — figures in your report.
-  - `final_report.pdf` — the full final write-up (a link to GitHub repo, a link to interactive prototype if any, background, research questions/project goals, methods, results, limitations, reflection and discussion with readings) that you submit to Canvas. 
+  - `final_report.pdf` — the full final write-up (a link to GitHub repo, a link to interactive prototype if any, background, research questions/project goals, methods, results, limitations, reflection and discussion with readings) that you submit to Canvas.
 - `docs/` (only if your project includes a web map or interactive prototype) — see "Web Map / Prototype" below.
+
+
 
 ## Web Map / Prototype (optional)
 
